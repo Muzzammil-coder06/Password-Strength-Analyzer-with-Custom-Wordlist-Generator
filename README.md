@@ -102,16 +102,4 @@ Secure your passwords, empower your pentests! 🔐
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-(Note: `tkinter` comes bundled with Python, no need to add it here.)
-
----
-
-# Final notes
-
-- Replace the GitHub repo URL in the README with your actual repo URL.
-- Add your code files (`gui.py`, `analyzer.py`, `wordlist_generator.py`) to this folder.
-- Then initialize git, commit, and push to GitHub.
-
----
-
-If you want, I can generate the contents of `analyzer.py` and `wordlist_generator.py` next. Just say so!
+ 
